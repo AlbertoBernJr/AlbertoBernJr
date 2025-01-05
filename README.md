@@ -5,7 +5,7 @@
 Me chamo Alberto Bernardo Junior, tenho 23 anos e sou natural do Rio de Janeiro.
 Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL e Cloud Computing AWS.
 "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-[Meu LinkdIn](https://www.linkedin.com/in/albertobernjr/)
+[Clique aqui](https://www.linkedin.com/in/albertobernjr/) para acessar o meu LinkedIn
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
