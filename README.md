@@ -10,9 +10,7 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
   
 </div>
 
----
-
-### Linguagens e Tecnologias
+##
 
 <img 
     align="left" 
