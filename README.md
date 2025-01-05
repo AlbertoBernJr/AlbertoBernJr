@@ -77,7 +77,7 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
 />
 
-###Estatísticas
+##Estatísticas
 <p>
   <img 
     align="left" 
