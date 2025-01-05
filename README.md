@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Alberto Bernardo Junior, tenho 23 anos e sou natural do Rio de Janeiro.
-Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL e Cloud Computing AWS.
-[Clique aqui](https://www.linkedin.com/in/albertobernjr/) para acessar o meu LinkedIn.
+Me chamo Alberto Bernardo Junior e sou do Rio de Janeiro/RJ.
+Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
+[Meu LinkedIn](https://www.linkedin.com/in/albertobernjr/).
 
 ---
 
