@@ -11,11 +11,6 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
 </div>
 
 ##
-
-
-<br/>
-<br/>
-
 <img 
     align="left" 
     alt="Python"
@@ -82,6 +77,7 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
 />
 
+###Estatísticas
 <p>
   <img 
     align="left" 
