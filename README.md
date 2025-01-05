@@ -6,6 +6,12 @@ Me chamo Alberto Bernardo Junior e sou do Rio de Janeiro/RJ.
 Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
 [Meu LinkedIn](https://www.linkedin.com/in/albertobernjr/).
 
+##
+<div> 
+  <a href="https://www.linkedin.com/in/albertobernjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 ---
 
 ### Linguagens e Tecnologias
@@ -87,14 +93,14 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlbertoBernJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AlbertoBernJr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoBernJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoBernJr&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
