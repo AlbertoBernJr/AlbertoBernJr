@@ -80,7 +80,7 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
 <br/>
 <br/>
 
-### Estat[isticas
+
 <p>
   <img 
     align="left" 
