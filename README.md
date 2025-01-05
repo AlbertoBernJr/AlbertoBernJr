@@ -4,7 +4,6 @@
 
 Me chamo Alberto Bernardo Junior e sou do Rio de Janeiro/RJ.
 Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
-[Meu LinkedIn](https://www.linkedin.com/in/albertobernjr/).
 
 ##
 <div> 
