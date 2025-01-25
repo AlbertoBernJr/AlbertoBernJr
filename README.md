@@ -10,7 +10,6 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
   
 </div>
 
-##
 <h2 align="center"> 🛠️ My favorite tools </h2>
 
 ![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
