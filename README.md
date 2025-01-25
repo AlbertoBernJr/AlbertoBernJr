@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Alberto Bernardo
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Backend`** **`Analista de Dados`**
 
 Me chamo Alberto Bernardo Junior e sou do Rio de Janeiro/RJ.
 Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
