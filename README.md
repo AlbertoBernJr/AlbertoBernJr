@@ -4,7 +4,7 @@
 
 Nascido no Rio de Janeiro/RJ.
 <br>
-Estou cursando bacharelado em Sistemas de Informação pela Universidade Veiga de Almeida. 
+Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga de Almeida. 
 
 <br>
 
