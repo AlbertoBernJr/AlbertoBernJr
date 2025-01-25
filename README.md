@@ -5,8 +5,6 @@
 Nascido no Rio de Janeiro/RJ.
 <br>
 Estou cursando bacharelado em Sistemas de Informação pela Universidade Veiga de Almeida. 
-<br>
-Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
 
 <br>
 
