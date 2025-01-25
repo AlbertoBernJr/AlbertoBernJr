@@ -11,12 +11,12 @@ Estou cursando o ensino superior em Sistemas de Informação pela Universidade V
 </div>
 
 <h2 align="center"> 🛠️ My favorite tools </h2>
-
-![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-purple?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/aws-yellow?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/github-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/git-gray?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/c-green?style=for-the-badge)
-
+<p align="center">
+  ![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/Python-purple?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/aws-yellow?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/github-red?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/git-gray?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/c-green?style=for-the-badge)
+</p>
