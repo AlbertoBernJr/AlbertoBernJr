@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Backend`** **`Analista de Dados`**
 
-Me chamo Alberto Bernardo Junior e sou do Rio de Janeiro/RJ.
+Nascido no Rio de Janeiro/RJ.
 <br>
-Estou cursando o ensino superior em Sistemas de Informação pela Universidade Veiga de Almeida. Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
+Estou cursando graduação em Sistemas de Informação pela Universidade Veiga de Almeida. 
+<br>
+Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
 
 <br>
 
