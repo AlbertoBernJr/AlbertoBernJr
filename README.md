@@ -8,7 +8,6 @@ Estou cursando graduação em Sistemas de Informação pela Universidade Veiga d
 <br>
 Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
 
-<br>
 <h2> :globe_with_meridians: Contato </h2>
 <div> 
   <a href="https://www.linkedin.com/in/albertobernjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
