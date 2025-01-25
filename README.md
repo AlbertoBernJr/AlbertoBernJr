@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alberto Bernardo
+#  Alberto Bernardo Jr
 
 **`Desenvolvedor Backend`** **`Analista de Dados`**
 
