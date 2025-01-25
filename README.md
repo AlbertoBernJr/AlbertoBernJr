@@ -26,4 +26,5 @@ Realizo projetos em Linguagens Python, Java , SQL, C e Cloud Computing AWS.
 ![Static Badge](https://img.shields.io/badge/github-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/git-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/c-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/vs_code-brown?style=for-the-badge)
 
