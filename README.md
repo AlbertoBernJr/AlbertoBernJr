@@ -1,6 +1,6 @@
 #  Alberto Bernardo Jr
 
-**`Desenvolvedor Backend`** **`Analista de Dados`**
+**`Desenvolvedor Backend`** **`Analista de Dados`** **`Suporte Técnico`**
 
 Nascido no Rio de Janeiro/RJ.
 <br>
