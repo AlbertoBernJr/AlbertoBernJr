@@ -17,11 +17,11 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 
 <h2> 🛠️ Minhas ferramentas 🛠️ </h2>
 
-![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-purple?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/aws-yellow?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/AWS-006400?style=plastic)
+![Static Badge](https://img.shields.io/badge/java-808000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/mysql-006400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-808000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/AWS-006400?style=for-the-badge)
+
 
 
 ![Static Badge](https://img.shields.io/badge/github-red?style=for-the-badge)
