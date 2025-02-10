@@ -18,14 +18,15 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 <h2> 🛠️ Minhas ferramentas 🛠️ </h2>
 
 
-![Static Badge](https://img.shields.io/badge/java-2E8B57?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/mysql-006400?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/python-2E8B57?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/AWS-006400?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/github-2E8B57?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/git-006400?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/c-2E8B57?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/vs_code-006400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/java-778899?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/mysql-C0C0C0?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/python-778899?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/aws-C0C0C0?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/github-778899?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/git-C0C0C0?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/c-778899?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/vs_code-C0C0C0?style=for-the-badge)
+
 
 
 #
