@@ -19,17 +19,14 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 
 
 ![Static Badge](https://img.shields.io/badge/java-2E8B57?style=for-the-badge)
-
 ![Static Badge](https://img.shields.io/badge/mysql-006400?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-808000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/python-2E8B57?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/AWS-006400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/github-2E8B57?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/git-006400?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/c-2E8B57?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/vs_code-006400?style=for-the-badge)
 
-
-
-![Static Badge](https://img.shields.io/badge/github-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/git-gray?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/c-green?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/vs_code-brown?style=for-the-badge)
 
 #
 
