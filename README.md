@@ -17,7 +17,9 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 
 <h2> 🛠️ Minhas ferramentas 🛠️ </h2>
 
-![Static Badge](https://img.shields.io/badge/java-808000?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/java-2E8B57?style=for-the-badge)
+
 ![Static Badge](https://img.shields.io/badge/mysql-006400?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-808000?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/AWS-006400?style=for-the-badge)
