@@ -30,7 +30,6 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 <h2> 📖 Estudos </h2>
 
 ![Static Badge](https://img.shields.io/badge/UVA-Sistemas_de_informa%C3%A7%C3%A3o-778899?style=for-the-badge) <br>
-![Static Badge](https://img.shields.io/badge/Funda%C3%A7%C3%A3o_bradesco-power_bi-778899?style=for-the-badge) <br>
 ![Static Badge](https://img.shields.io/badge/Escola_da_nuvem-aws_cloud_practitioner-778899?style=for-the-badge)
 
 
