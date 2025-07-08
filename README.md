@@ -1,6 +1,6 @@
 #  Alberto Bernardo Jr
 
-**`Desenvolvedor BackEnd`** **`Analista de Dados`** **`Suporte Técnico`**
+**`Desenvolvedor BackEnd`** **`Analista de Dados`**
 
 Nascido no Rio de Janeiro/RJ.
 <br>
@@ -15,7 +15,7 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 
 <br>
 
-<h2> 🛠️ Skills em Tecnologias </h2>
+<h2> 🛠️ Skills e Tecnologias </h2>
 
 
 ![Static Badge](https://img.shields.io/badge/java-778899?style=for-the-badge)
@@ -24,7 +24,6 @@ Estou realizando bacharelado em Sistemas de Informação pela Universidade Veiga
 ![Static Badge](https://img.shields.io/badge/aws-C0C0C0?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/github-778899?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/git-C0C0C0?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/c-778899?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/vs_code-C0C0C0?style=for-the-badge)
 
 <h2> 📖 Estudos </h2>
